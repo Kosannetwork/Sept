@@ -5,4 +5,5 @@ Rencaa belajar Programming
  *React Js
  * Vue js
 - Competitive programming 
+* C++
 
