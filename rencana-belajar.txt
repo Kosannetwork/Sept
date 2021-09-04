@@ -1,7 +1,6 @@
 Rencaa belajar Programming
 - Java script
 - DOM
-- Java script advanced
 - Framework Javascript
  *React Js
  * Vue js
