@@ -2,5 +2,7 @@ Rencaa belajar Programming
 - Java script
 - DOM
 - Framework Javascript
-* Angular Js
+ *React Js
+ * Vue js
 - Competitive programming 
+
