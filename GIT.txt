@@ -1,2 +1,4 @@
 awal belajar git
-4 September 2021
+- 4 September 2021
+- membuat forum
+- menambahan collaboration
